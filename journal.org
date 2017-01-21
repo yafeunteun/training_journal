@@ -1,0 +1,18 @@
+#+TITLE: Workout Journal
+#+AUTHOR: YFE
+
+
+* W1 (week 2 phase 3 of [[http://www.superphysique.org/articles/640][this program]])
+
+** DONE S1 (chest - biceps)
+   CLOSED: [2017-01-21 Sat 13:20]
+
+| Exercice          | Weight |     Reps | Notes         |
+|-------------------+--------+----------+---------------|
+| Développé couché  | 110kg  |  2-2-2-2 | Smith Machine |
+| Développé incliné | 90kg   |    2-2-2 | Smith Machine |
+| Curl EZ           | 40kg   | 10-10-10 |               |
+| Curl hammer       | 2*16kg | 10-10-10 |               |
+|-------------------+--------+----------+---------------|
+
+Feelings: 
