@@ -15,4 +15,20 @@
 | Curl hammer       | 2*16kg | 10-10-10 |               |
 |-------------------+--------+----------+---------------|
 
-Feelings: 
+Feelings: Good
+
+** DONE S2 (back - shoulder) 
+   CLOSED: [2017-01-22 Sun 17:32]
+
+| Exercice                                       | Weight     |     Reps | Notes   |
+|------------------------------------------------+------------+----------+---------|
+| Traction prise large devant                    | 5kg        |    8-8-8 |         |
+| Rowing barre à la Yates en surpination         | 70kg       |    8-8-8 |         |
+| Rowing assis à la poulie basse prise neutre    | 75kg       |    8-8-8 | Easy    |
+| Développé militaire                            | 50kg       |    8-8-6 |         |
+| Rowing assis à la machine coudes ouverts       | 50kg       |    8-8-8 | Easy    |
+| Abdos tirage poulie basse (enroulement bassin) | 10,15,20kg | 20-15-15 | 1' rest |
+|------------------------------------------------+------------+----------+---------|
+
+Feelings: Good
+
