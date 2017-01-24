@@ -32,3 +32,16 @@ Feelings: Good
 
 Feelings: Good
 
+** DONE S3 (chest - triceps)
+   CLOSED: [2017-01-24 Tue 16:40]
+
+| Exercice                        | Weight |     Reps | Notes         |
+|---------------------------------+--------+----------+---------------|
+| Développé couché                | 130kg  |        1 | Smith Machine |
+| Développé incliné               | 100kg  |        1 | Smith Machine |
+| Développé couché prise serrée   | 80kg   |    8-8-8 | Smith Machine |
+| Dips                            | 30kg   |    8-8-8 |               |
+| L-Fly allongé à la poulie basse | 15     | 20-20-20 |               |
+|---------------------------------+--------+----------+---------------|
+
+Feelings: Very Good
