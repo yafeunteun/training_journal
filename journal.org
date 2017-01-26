@@ -45,3 +45,18 @@ Feelings: Good
 |---------------------------------+--------+----------+---------------|
 
 Feelings: Very Good
+
+
+** DONE S4 (legs)
+   CLOSED: [2017-01-25 Wed]
+
+| Exercice                           | Weight       |     Reps | Notes            |
+|------------------------------------+--------------+----------+------------------|
+| Squat                              | 110kg        |    8-8-8 |                  |
+| Presse à cuisses                   | 245kg        |    8-8-8 |                  |
+| Soulevé de terre                   | 110kg        |    8-8-8 |                  |
+| Leg Curl                           | 40kg         |    8-8-8 | Pause 1" en haut |
+| Mollets debout                     | 24kg et 16kg | 20-20-15 |                  |
+| Relevé de jambes à la poulie basse | 15kg         | 10-10-10 | rest 1'30"       |
+|------------------------------------+--------------+----------+------------------|
+
