@@ -60,3 +60,44 @@ Feelings: Very Good
 | Relevé de jambes à la poulie basse | 15kg         | 10-10-10 | rest 1'30"       |
 |------------------------------------+--------------+----------+------------------|
 
+
+* W2 (week 3 phase 3 of [[http://www.superphysique.org/articles/640][this program]])
+
+** DONE S5 (chest - biceps) 
+   CLOSED: [2017-01-27 Sun 23:52]
+
+| Exercice                                       | Weight |     Reps | Notes          |
+|------------------------------------------------+--------+----------+----------------|
+| Développé couché                               | 110kg  |    3-3-3 | Smith Machine  |
+| Développé incliné                              | 96kg   |    2-2-2 | Smith Machine  |
+| Curl EZ                                        | 44kg   | 10-10-10 |                |
+| Curl hammer                                    | 2*16kg | 12-12-10 |                |
+| Abdos tirage poulie basse (enroulement bassin) | 10kg   | 15-15-15 | 1' rest        |
+| Abdos obliques poulie basse                    | 30kg   | 15-15-16 | 1' rest        |
+| Abdos tirage poulie haute                      | 45kg   | 20-20-20 | 1' rest - easy |
+|------------------------------------------------+--------+----------+----------------|
+
+
+
+** DONE S6 (back - shoulder)
+   CLOSED: [2017-01-28 Sun 23:57]
+
+| Exercice                                       | Weight     |     Reps | Notes       |
+|------------------------------------------------+------------+----------+-------------|
+| Traction prise large devant                    | 7kg        |    8-8-8 |             |
+| Rowing barre à la Yates en surpination         | 80kg       |    8-8-8 |             |
+| Rowing assis à la poulie basse prise neutre    | 80kg       | 10-10-10 |             |
+| Développé militaire                            | 50kg       |    8-8-8 | Challenging |
+| Rowing assis à la machine coudes ouverts       | 60kg       |    8-8-8 | Easy        |
+|------------------------------------------------+------------+----------+-------------|
+
+** TODO S7 (chest - triceps)
+
+| Exercice                        | Weight |     Reps | Notes         |
+|---------------------------------+--------+----------+---------------|
+| Développé couché                | 116kg  |          | Smith Machine |
+| Développé incliné               | 100kg  |          | Smith Machine |
+| Développé couché prise serrée   | 80kg   |    8-8-8 | Smith Machine |
+| Dips                            | 30kg   |    8-8-8 |               |
+| L-Fly allongé à la poulie basse | 15     | 20-20-20 |               |
+|---------------------------------+--------+----------+---------------|
