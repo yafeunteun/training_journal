@@ -95,9 +95,9 @@ Feelings: Very Good
 
 | Exercice                        | Weight |     Reps | Notes         |
 |---------------------------------+--------+----------+---------------|
-| Développé couché                | 116kg  |          | Smith Machine |
-| Développé incliné               | 100kg  |          | Smith Machine |
-| Développé couché prise serrée   | 80kg   |    8-8-8 | Smith Machine |
-| Dips                            | 30kg   |    8-8-8 |               |
-| L-Fly allongé à la poulie basse | 15     | 20-20-20 |               |
+| Développé couché                | 116kg  |    2-2-2      | Smith Machine |
+| Développé incliné               | 100kg  |    2-2      | Smith Machine |
+| Développé couché prise serrée   | 86kg   |    8-7-7 | Smith Machine |
+| Dips                            | 35kg   |    8-8-7 |               |
+| L-Fly allongé à la poulie basse | 20-15-15kg     | 15 et 10-20-20 |               |
 |---------------------------------+--------+----------+---------------|
