@@ -130,3 +130,14 @@ Feelings: Very Good
 | Abdos tirage poulie haute | 50kg   | 15-15-10 | 1'30" rest    |
 |---------------------------+--------+----------+---------------|
 
+** DONE S10 (back - shoulder)
+   CLOSED: [2017-02-03 Fri 15:49]
+
+| Exercice                                    | Weight |     Reps | Notes       |
+|---------------------------------------------+--------+----------+-------------|
+| Traction prise large devant                 | 10kg   |    8-8-8 |             |
+| Rowing barre à la Yates en surpination      | 80kg   |   10-8-6 |             |
+| Rowing assis à la poulie basse prise neutre | 80kg   | 10-10-10 |             |
+| Développé militaire                         | 50kg   |   10-8-7 | Challenging |
+| Rowing assis à la machine coudes ouverts    | 60kg   | 20-18-13 |             |
+|---------------------------------------------+--------+----------+-------------|
