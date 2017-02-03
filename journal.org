@@ -102,3 +102,31 @@ Feelings: Very Good
 | Dips                            | 35kg       |          8-8-7 |               |
 | L-Fly allongé à la poulie basse | 20-15-15kg | 15 et 10-20-20 |               |
 |---------------------------------+------------+----------------+---------------|
+
+** DONE S8 (legs)
+   CLOSED: [2017-02-01 Fri 12:52]
+
+| Exercice                           | Weight |     Reps | Notes                      |
+|------------------------------------+--------+----------+----------------------------|
+| Squat                              | 120kg  |    8-8-8 | Mal executé cf: [[https://www.youtube.com/watch?v=uwFB8PHSbmU][This video]] |
+| Presse à cuisses                   | 245kg  |    8-8-8 |                            |
+| Soulevé de terre                   | 120kg  |    8-8-8 |                            |
+| Leg Curl                           | 50kg   |    8-8-8 |                            |
+| Mollets debout                     | 24kg   | 15-15-15 |                            |
+|------------------------------------+--------+----------+----------------------------|
+
+* W3 (week 4 phase 3 of [[http://www.superphysique.org/articles/4130][this program]])
+
+
+** DONE S9 (chest - biceps)
+   CLOSED: [2017-02-02 Fri 12:55]
+
+| Exercice                  | Weight |     Reps | Notes         |
+|---------------------------+--------+----------+---------------|
+| Développé couché          | 130kg  |        1 | Smith Machine |
+| Développé incliné         | 104kg  |        1 | Smith Machine |
+| Curl EZ                   | 44kg   | 10-10-10 |               |
+| Curl hammer               | 2*16kg | 12-12-12 |               |
+| Abdos tirage poulie haute | 50kg   | 15-15-10 | 1'30" rest    |
+|---------------------------+--------+----------+---------------|
+
