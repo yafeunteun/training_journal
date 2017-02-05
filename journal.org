@@ -141,3 +141,16 @@ Feelings: Very Good
 | Développé militaire                         | 50kg   |   10-8-7 | Challenging |
 | Rowing assis à la machine coudes ouverts    | 60kg   | 20-18-13 |             |
 |---------------------------------------------+--------+----------+-------------|
+
+** DONE S11 (chest - triceps)
+   CLOSED: [2017-02-05 Sun 16:28]
+
+
+| Exercice                        | Weight |             Reps | Notes         |
+|---------------------------------+--------+------------------+---------------|
+| Développé couché                | 134kg  |                1 | Smith Machine |
+| Développé incliné               | 104kg  |                1 | Smith Machine |
+| Développé couché prise serrée   | 86kg   |            8-8-8 | Smith Machine |
+| Dips                            | 35kg   |            8-8-8 |               |
+| L-Fly allongé à la poulie basse | 15kg   | 22-22-(22 et 20) |               |
+|---------------------------------+--------+------------------+---------------|
