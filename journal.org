@@ -167,3 +167,21 @@ Feelings: Very Good
 | Mollets debout          | 24kg   | 16-16-16 |                                                 |
 | Abdos à la poulie haute | 55kg   | 15-15-14 |                                                 |
 |-------------------------+--------+----------+-------------------------------------------------|
+
+
+* W4 (week 4 phase 1 of [[www.superphysique.org/articles/640][this program]])
+Loop with max set at 124kg
+
+** DONE S13 (chest - shoulder) 
+   CLOSED: [2017-02-07 Tue 12:51]
+
+| Exercice                                      | Weight     |        Reps | Notes         |
+|-----------------------------------------------+------------+-------------+---------------|
+| Développé couché                              | 90kg       | 12-12-12-12 | Smith Machine |
+| Développé incliné                             | 72kg       |    12-12-12 | Smith Machine |
+| Ecarté à la machine                           | 50-60-65kg |    15-15-15 |               |
+| Rowing debout prose large                     | 40kg       |    12-12-12 | Hard          |
+| Rowing assis à la poulie basse coudes ouverts | 60kg       |    15-15-15 | Hard          |
+|-----------------------------------------------+------------+-------------+---------------|
+
+
