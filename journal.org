@@ -169,7 +169,7 @@ Feelings: Very Good
 |-------------------------+--------+----------+-------------------------------------------------|
 
 
-* W4 (week 4 phase 1 of [[www.superphysique.org/articles/640][this program]])
+* W4 (week 1 phase 1 of [[www.superphysique.org/articles/4130][this program]])
 Loop with max set at 124kg
 
 ** DONE S13 (chest - shoulder) 
@@ -183,5 +183,34 @@ Loop with max set at 124kg
 | Rowing debout prose large                     | 40kg       |    12-12-12 | Hard          |
 | Rowing assis à la poulie basse coudes ouverts | 60kg       |    15-15-15 | Hard          |
 |-----------------------------------------------+------------+-------------+---------------|
+
+** DONE S14 (back - biceps - abs)
+   CLOSED: [2017-02-10 Sun 00:13]
+
+| Exercice                      | Weight      |                 Reps | Notes |
+|-------------------------------+-------------+----------------------+-------|
+| Tractions prise large devant  | 10kg et 5kg | 10@10-10@10 10@5-5@5 |       |
+| Rowing à un bras avec haltère | 24kg        |             12-12-12 |       |
+| Rowing à la T-bar             | 60kg        |          12-12-12-12 |       |
+| Curl incliné                  | 13kg        |          10-10-10-10 |       |
+| Curl inversé                  | 20kg        |          12-12-12-12 |       |
+|-------------------------------+-------------+----------------------+-------|
+
+** DONE S15 (chest - triceps) 
+   CLOSED: [2017-02-12 Sun 00:14]
+
+| Exercice                                       | Weight |        Reps | Notes         |
+|------------------------------------------------+--------+-------------+---------------|
+| Développé couché                               | 96kg   |  10-10-10-9 | Smith Machine |
+| Développé incliné                              | 77kg   |     10-10-9 | Smith Machine |
+| Pull Over                                      | 32kg   |    15-15-15 |               |
+| Barre au front                                 | 30kg   | 12-12-12-12 | Barre EZ      |
+| Extension des triceps à la poulie en pronation | 30kg   |    12-12-12 |               |
+| L-Fly                                          | 15kg   |    23-23-22 |               |
+|------------------------------------------------+--------+-------------+---------------|
+
+
+
+
 
 
