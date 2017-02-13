@@ -221,6 +221,26 @@ Loop with max set at 124kg
 | Crunch à la poulie haute        | 55     |    16-16-16 | Ne pas hésiter à ajouter une ou deux séries |
 |---------------------------------+--------+-------------+---------------------------------------------|
 
+** 
+** 
+** 
+
+
+* W5 (week 2 phase 1) 
+
+** DONE S17 (chest - shoulder) 
+   CLOSED: [2017-02-13 Mon 23:04]
+
+| Exercice                                      | Weight |     Reps | Notes         |
+|-----------------------------------------------+--------+----------+---------------|
+| Développé couché                              | 100kg  |  8-8-8-8 | Smith Machine |
+| Développé incliné                             | 80kg   |    8-8-8 | Smith Machine |
+| Ecarté à la machine                           | 70kg   | 15-15-15 |               |
+| Rowing debout prose large                     | 30kg   | 12-12-12 |               |
+| Rowing assis à la poulie basse coudes ouverts | 50kg   | 15-15-15 |               |
+|-----------------------------------------------+--------+----------+---------------|
+
+
 
 
 
