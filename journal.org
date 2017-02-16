@@ -240,10 +240,14 @@ Loop with max set at 124kg
 | Rowing assis à la poulie basse coudes ouverts | 50kg   | 15-15-15 |               |
 |-----------------------------------------------+--------+----------+---------------|
 
-
-
-
-
-
-
-
+** DONE S18 (back - biceps - abs)
+   CLOSED: [2017-02-14 Thu 11:54]
+| Exercice                                        | Weight |        Reps | Notes              |
+|-------------------------------------------------+--------+-------------+--------------------|
+| Tractions prise large devant                    | 5kg    |  10-10-10-8 |                    |
+| Rowing à un bras avec haltère à la poulie basse | 30kg   |    12-12-12 |                    |
+| Rowing à la T-bar                               | 90kg   | 10-10-10-10 |                    |
+| Curl incliné                                    | 13kg   | 10-10-10-10 |                    |
+| Curl inversé                                    | 20kg   | 12-12-12-12 | Increase next time |
+| Crunch à la poulie haute                        | 55kg   |    15-15-15 |                    |
+|-------------------------------------------------+--------+-------------+--------------------|
