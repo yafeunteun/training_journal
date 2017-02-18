@@ -264,3 +264,14 @@ Loop with max set at 124kg
 | Extension des triceps à la poulie en pronation | 30kg                 |    12-12-12 |               |
 | L-Fly                                          | 17kg                 |    15-15-15 |               |
 |------------------------------------------------+----------------------+-------------+---------------|
+** DONE S20 (chest - shoulder) 
+   CLOSED: [2017-02-18 Sat 23:34]
+
+| Exercice                                      | Weight     |        Reps | Notes         |
+|-----------------------------------------------+------------+-------------+---------------|
+| Développé couché                              | 92kg       | 12-11-12-11 | Smith Machine |
+| Développé incliné                             | 74kg       |    12-11-12 | Smith Machine |
+| Ecarté à la machine                           | 75-75-80kg |    15-15-15 |               |
+| Rowing debout prose large                     | 34kg       |    12-12-12 |               |
+| Rowing assis à la poulie basse coudes ouverts | 55kg       |    15-15-15 |               |
+|-----------------------------------------------+------------+-------------+---------------|
