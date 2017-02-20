@@ -221,9 +221,7 @@ Loop with max set at 124kg
 | Crunch à la poulie haute        | 55     |    16-16-16 | Ne pas hésiter à ajouter une ou deux séries |
 |---------------------------------+--------+-------------+---------------------------------------------|
 
-** 
-** 
-** 
+
 
 
 * W5 (week 2 phase 1) 
@@ -275,3 +273,14 @@ Loop with max set at 124kg
 | Rowing debout prose large                     | 34kg       |    12-12-12 |               |
 | Rowing assis à la poulie basse coudes ouverts | 55kg       |    15-15-15 |               |
 |-----------------------------------------------+------------+-------------+---------------|
+** DONE S21 (legs)
+   CLOSED: [2017-02-20 Mon 01:50]
+| Exercice                        | Weight |        Reps | Notes                                       |
+|---------------------------------+--------+-------------+---------------------------------------------|
+| Squat                           | 80kg   | 12-12-12-12 |                                             |
+| Presse                          | 245kg  |    12-12-12 |                                             |
+| Leg Curl                        | 50kg   | 12-12-12-12 |                                             |
+| Soulevé de terre jambes tendues | 110kg  |    12-12-12 |                                             |
+| Mollets assis                   | 50kg   |    15-15-15 |                                             |
+| Crunch à la poulie haute        | 60kg   |    16-16-16 | Ne pas hésiter à ajouter une ou deux séries |
+|---------------------------------+--------+-------------+---------------------------------------------|
