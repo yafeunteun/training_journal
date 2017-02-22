@@ -284,3 +284,19 @@ Loop with max set at 124kg
 | Mollets assis                   | 50kg   |    15-15-15 |                                             |
 | Crunch à la poulie haute        | 60kg   |    16-16-16 | Ne pas hésiter à ajouter une ou deux séries |
 |---------------------------------+--------+-------------+---------------------------------------------|
+
+* W6 (week 3 phase 1)
+
+** DONE S22 (chest - triceps) 
+   CLOSED: [2017-02-22 Wed 23:55]
+
+| Exercice                                       | Weight               |        Reps | Notes         |
+|------------------------------------------------+----------------------+-------------+---------------|
+| Développé couché                               | 97kg                 | 10-10-10-10 | Smith Machine |
+| Développé incliné                              | 79kg                 |    10-10-10 | Smith Machine |
+| Pull Over                                      | 46kg + barre en huit |    12-12-12 |               |
+| Barre au front                                 | 30kg + barre en huit | 13-13-13-12 |               |
+| Extension des triceps à la poulie en pronation | 32kg                 |    12-12-12 |               |
+| L-Fly                                          | 17kg                 |    16-16-16 |               |
+|------------------------------------------------+----------------------+-------------+---------------|
+
