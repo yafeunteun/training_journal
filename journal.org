@@ -311,3 +311,16 @@ Loop with max set at 124kg
 | Curl inversé                                    | 30kg       | 12-12-12-12 |       |
 | Crunch à la poulie haute                        | 65-65-60kg |    10-8-15  |       |
 |-------------------------------------------------+------------+-------------+-------|
+
+
+** DONE S24 (chest - shoulder) 
+   CLOSED: [2017-02-25 Sat 00:19]
+
+| Exercice                                      | Weight |     Reps | Notes         |
+|-----------------------------------------------+--------+----------+---------------|
+| Développé couché                              | 101kg  |  8-8-8-8 | Smith Machine |
+| Développé incliné                             | 84kg   |    8-8-8 | Smith Machine |
+| Ecarté à la machine                           | 80kg   | 12-12-12 |               |
+| Rowing debout prose large                     | 34kg   | 13-13-13 |               |
+| Rowing assis à la poulie basse coudes ouverts | 60kg   | 12-12-12 |               |
+|-----------------------------------------------+--------+----------+---------------|
