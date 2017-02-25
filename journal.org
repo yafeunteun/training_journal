@@ -324,3 +324,17 @@ Loop with max set at 124kg
 | Rowing debout prose large                     | 34kg   | 13-13-13 |               |
 | Rowing assis à la poulie basse coudes ouverts | 60kg   | 12-12-12 |               |
 |-----------------------------------------------+--------+----------+---------------|
+
+** DONE S25 (legs)
+   CLOSED: [2017-02-25 Sat 23:54]
+
+| Exercice                           | Weight |        Reps | Notes |
+|------------------------------------+--------+-------------+-------|
+| Squat                              | 84kg   | 12-12-12-12 |       |
+| Presse                             | 268kg  |    12-12-12 |       |
+| Leg Curl                           | 50kg   | 12-12-12-12 |       |
+| Soulevé de terre jambes tendues    | 120kg  |       8-8-8 |       |
+| Mollets assis                      | 50kg   |    15-15-15 |       |
+| Relevé de jambes à la poulie basse | 15kg   |    15-15-14 |       |
+|------------------------------------+--------+-------------+-------|
+
