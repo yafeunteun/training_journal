@@ -338,3 +338,44 @@ Loop with max set at 124kg
 | Relevé de jambes à la poulie basse | 15kg   |    15-15-14 |       |
 |------------------------------------+--------+-------------+-------|
 
+
+* W7 (week 4 phase 1)
+
+** S26 (chest - triceps)
+
+
+| Exercice                                       | Weight               |        Reps | Notes         |
+|------------------------------------------------+----------------------+-------------+---------------|
+| Développé couché                               | 106kg                |     6-6-6-6 | Smith Machine |
+| Développé incliné                              | 88kg                 |       6-6-6 | Smith Machine |
+| Pull Over                                      | 46kg + barre en huit |    13-13-13 |               |
+| Barre au front                                 | 30kg + barre en huit | 13-13-13-13 |               |
+| Extension des triceps à la poulie en pronation | 32kg                 |    13-13-13 |               |
+| L-Fly                                          | 17kg                 |    17-17-17 |               |
+|------------------------------------------------+----------------------+-------------+---------------|
+
+** S27 (back - shoulder - abs)
+
+
+| Exercice                                        | Weight |        Reps | Notes |
+|-------------------------------------------------+--------+-------------+-------|
+| Tractions prise large devant                    | 5kg    | 10-10-10-10 |       |
+| Rowing à un bras avec haltère à la poulie basse | 35kg   |    12-12-12 |       |
+| Rowing à la T-bar                               | 90kg   | 12-12-12-12 |       |
+| Curl incliné                                    | 13kg   | 12-12-12-12 |       |
+| Curl inversé                                    | 34     | 10-10-10-10 |       |
+| Crunch à la poulie haute                        | 60kg   |    15-15-15 |       |
+|-------------------------------------------------+--------+-------------+-------|
+
+* W8 (week 1 phase 1)
+
+** S28 (chest - biceps)
+
+| Exercice              | Weight       |                Reps | Notes         |
+|-----------------------+--------------+---------------------+---------------|
+| Développé couché      | 104kg        |             8-8-8-8 | Smith Machine |
+| Développé incliné     | 86kg         |               8-8-8 | Smith Machine |
+| Dips                  | 40kg         |               8-8-8 |               |
+| Tractions surpination | 20kg et 10kg | 8@20-8@20-8@10-8@10 |               |
+|-----------------------+--------------+---------------------+---------------|
+
